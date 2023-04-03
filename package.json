@@ -1,5 +1,6 @@
 {
   "name": "plotty",
+  "type": "module",
   "license": "MIT",
   "version": "0.4.9",
   "dependencies": {},
