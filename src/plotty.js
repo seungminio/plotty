@@ -213,7 +213,6 @@ void main() {
 }`;
 
 const createCanvasElement = () => {
-  if (document) return document.createElement("canvas");
   return createCanvas();
 };
 
