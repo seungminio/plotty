@@ -3,7 +3,9 @@
   "type": "module",
   "license": "MIT",
   "version": "0.4.9",
-  "dependencies": {},
+  "dependencies": {
+    "canvas": "^2.11.2"
+  },
   "devDependencies": {
     "@babel/core": "^7.9.0",
     "@babel/preset-env": "^7.9.5",
